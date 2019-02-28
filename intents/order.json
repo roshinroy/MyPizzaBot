@@ -1,0 +1,43 @@
+{
+  "id": "bcea5177-c1f1-4511-97a0-92f3e70fcde4",
+  "name": "order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a265b10f-ce2c-414e-b0ad-9eab6018b7cc",
+          "required": true,
+          "dataType": "@Topping",
+          "name": "Topping",
+          "value": "$Topping",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "You haven\u0027t told me the type of pizza you want.What type of pizza do you want?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! Your pizza is on it\u0027s way...!!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551376316,
+  "fallbackIntent": false,
+  "events": []
+}

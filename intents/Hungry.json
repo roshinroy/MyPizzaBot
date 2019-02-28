@@ -1,0 +1,28 @@
+{
+  "id": "fc14879b-e1b3-4374-981c-002696c0284d",
+  "name": "Hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi. What type of pizza do you want?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551375742,
+  "fallbackIntent": false,
+  "events": []
+}

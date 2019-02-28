@@ -1,0 +1,90 @@
+[
+  {
+    "id": "7d4d2f5c-849e-45ba-bdcd-e409a4ad9eab",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "pineapple",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551376141
+  },
+  {
+    "id": "51082db2-596f-47fb-b68b-c68c5eb1b268",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "mushroom",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551376141
+  },
+  {
+    "id": "d568c1b1-b8a6-45f6-a970-b7b39fc92f90",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551376141
+  },
+  {
+    "id": "ef23970d-41f2-4406-b3f1-3184cea2db63",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551376141
+  }
+]
